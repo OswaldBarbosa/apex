@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.back-menu {
+    position: absolute;
+    left: 7%;
+    top: 3%;
+}
+.vector1 {
+    position: absolute;
+    left: 119px;
+    top: 3%;
+}
+.vector2 {
+    position: absolute;
+    left: 92%;
+    top: 3%;
+}
+.logo-menor {
+    position: absolute;
+    left: 11%;
+    top: 4%;
+    height: 60px;
+    color: white;
+}
+.about {
+    position: absolute;
+    left: 20%;
+    top: 6%;
+    font-size: 18px;
+    color: white;
+}
+.modes {
+    position: absolute;
+    left: 25%;
+    top: 6%;
+    font-size: 18px;
+    color: white;
+}
+.season {
+    position: absolute;
+    left: 30%;
+    top: 6%;
+    font-size: 18px;
+    color: white;
+}
+.battle {
+    position: absolute;
+    left: 35%;
+    top: 6%;
+    font-size: 18px;
+    color: white;
+}
+.news {
+    position: absolute;
+    left: 41%;
+    top: 6%;
+    font-size: 18px;
+    color: white;
+}
+.community {
+    position: absolute;
+    left: 48%;
+    top: 6%;
+    font-size: 18px;
+    color: white;
+}
+.compete {
+    position: absolute;
+    left: 54%;
+    top: 6%;
+    font-size: 18px;
+    color: white;
+}
+.botao {
+    position: absolute;
+    top: 5%;
+    left: 75%;
+    height: 48px;
+    width: 233px;
+    background-color: #C83C35;;
+}
+.download {
+    position: absolute;
+    top: 6%;
+    left: 76%;
+    color: white;
+}
+
+
