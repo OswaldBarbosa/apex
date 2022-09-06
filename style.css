@@ -3,6 +3,35 @@
     margin: 0;
     box-sizing: border-box;
 }
+.cinza {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 31px;
+    width: 1920px;
+    background-color: #161616;
+}
+.profile {
+    position: absolute;
+    left: 1775.5px;
+    top: 9px;
+    width: 16px;
+    height: 17px;
+}
+.help {
+    position: absolute;
+    left: 1816.5px;
+    top: 9px;
+    width: 16px;
+    height: 17px;
+}
+.ea {
+    position: absolute;
+    left: 1854.5px;
+    top: 9px;
+    width: 27px;
+    height: 17px;
+}
 .back-menu {
     position: absolute;
     left: 7%;
@@ -21,11 +50,12 @@
 .logo-menor {
     position: absolute;
     left: 11%;
-    top: 4%;
-    height: 60px;
+    top: 5%;
+    height: 45px;
     color: white;
 }
 .about {
+    font-family: 'Oxanium' , cursive;
     position: absolute;
     left: 20%;
     top: 6%;
@@ -33,6 +63,7 @@
     color: white;
 }
 .modes {
+    font-family: 'Oxanium', cursive;
     position: absolute;
     left: 25%;
     top: 6%;
@@ -40,6 +71,7 @@
     color: white;
 }
 .season {
+    font-family: 'Oxanium', cursive;
     position: absolute;
     left: 30%;
     top: 6%;
@@ -47,6 +79,7 @@
     color: white;
 }
 .battle {
+    font-family: 'Oxanium', cursive;
     position: absolute;
     left: 35%;
     top: 6%;
@@ -54,22 +87,25 @@
     color: white;
 }
 .news {
+    font-family: 'Oxanium', cursive;
     position: absolute;
-    left: 41%;
+    left: 42%;
     top: 6%;
     font-size: 18px;
     color: white;
 }
 .community {
+    font-family: 'Oxanium', cursive;
     position: absolute;
-    left: 48%;
+    left: 50%;
     top: 6%;
     font-size: 18px;
     color: white;
 }
 .compete {
+    font-family: 'Oxanium', cursive;
     position: absolute;
-    left: 54%;
+    left: 57%;
     top: 6%;
     font-size: 18px;
     color: white;
@@ -83,10 +119,24 @@
     background-color: #C83C35;;
 }
 .download {
+    font-family: 'Oxanium', cursive;
     position: absolute;
-    top: 6%;
-    left: 76%;
+    top: 62px;
+    left: 1458px;
     color: white;
 }
+.logo-maior {
+    width: 327.21px;
+    height: 210.76px;
+    position: absolute;
+    top: 32%;
+    left: 4%;
+}
+.personagem {
+    position: absolute;
+    left: 1156px;
+    top: 167px;
+}
+
 
 
