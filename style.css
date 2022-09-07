@@ -1,7 +1,6 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
 }
 .cinza {
     position: absolute;
@@ -136,7 +135,36 @@
     position: absolute;
     left: 1156px;
     top: 167px;
+    z-index: 1;
+    
 }
+.logo-vermelho {
+    position: absolute;
+    left: 52.86%;
+    top: 155px;
+    z-index: 0;
+}
+.parte-logo {
+    position: absolute;
+    left: 53.4%;
+    right: 28.63%;
+    top: 82.9%;
+    bottom: 8.98%;
+    z-index: 2;
+}
+.plataformas {
+    position: absolute;
+    left: 86px;
+    top: 57.7%;
+    color: white;
+    font-family: 'Oxanium', cursive;
+    width: 600px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+}
+
 
 
 
