@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 .cinza {
     position: absolute;
@@ -109,7 +110,7 @@
     font-size: 18px;
     color: white;
 }
-.botao {
+.botao-vermelho {
     position: absolute;
     top: 5%;
     left: 75%;
@@ -154,7 +155,7 @@
 }
 .plataformas {
     position: absolute;
-    left: 86px;
+    left: 88px;
     top: 57.7%;
     color: white;
     font-family: 'Oxanium', cursive;
@@ -163,4 +164,84 @@
     display: flex;
     align-items: center;
     letter-spacing: 0.02em;
+}
+.botao-play {
+    position: absolute;
+    left: 84px;
+    top: 656px;
+    width: 279.47px;
+    height: 61.49px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.text-play {
+    position: absolute;
+    left: 140px;
+    top: 673px;
+    font-family: 'Oxanium' , cursive;
+    font-size: 22px;
+    color: white;
+}
+.Vector-branco {
+    position: absolute;
+    left: 150px;
+    top: 655px;
+}
+.Vector-esquerdo {
+    position: absolute;
+    left: 276px;
+    top: 656px;
+}
+.Vector-direito {
+    position: absolute;
+    left: 83px;
+    top: 656px;
+}
+.laranja-play {
+    position: absolute;
+    width: 279px;
+    height: 8.24px;
+    left: 84.2px;
+    top: 708.5px;
+    background: #FB4F1F;
+}
+.botao-trailer {
+    position: absolute;
+    left: 390px;
+    top: 656px;
+    width: 279.47px;
+    height: 61.49px;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.text-trailer {
+    position: absolute;
+    left: 420px;
+    top: 673px;
+    font-family: 'Oxanium' , cursive;
+    font-size: 22px;
+    color: white;
+    z-index: 1;
+}
+.vector-branco {
+    position: absolute;
+    left: 460px;
+    top: 655px;
+}
+.vector-esquerdo {
+    position: absolute;
+    left: 582px;
+    top: 656px;
+    z-index: 0;
+}
+.vector-direito {
+    position: absolute;
+    left: 390px;
+    top: 656px;
+}
+.laranja-trailer {
+    position: absolute;
+    width: 279px;
+    height: 8.24px;
+    left: 390px;
+    top: 708.5px;
+    background: #FB4F1F;
 }
