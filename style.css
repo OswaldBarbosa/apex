@@ -3,6 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    height: 100vh;
+    background-image: url(./img/Apex\ world.png);
+}
 .cinza {
     position: absolute;
     left: 0px;
@@ -134,22 +138,28 @@
 }
 .personagem {
     position: absolute;
+    width: 570px;
+    height: auto;
     left: 1156px;
-    top: 167px;
+    top: 252px;
     z-index: 1;
     
 }
 .logo-vermelho {
     position: absolute;
+    width: 733px;
+    height: auto;
     left: 52.86%;
-    top: 155px;
+    top: 220px;
     z-index: 0;
 }
 .parte-logo {
     position: absolute;
+    width: 300px;
+    height: auto;
     left: 53.4%;
     right: 28.63%;
-    top: 86%;
+    top: 790px;
     bottom: 8.98%;
     z-index: 2;
 }
